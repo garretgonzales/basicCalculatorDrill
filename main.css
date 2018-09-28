@@ -1,0 +1,50 @@
+html {
+    background-color: blueviolet;
+}
+
+h1 {
+    color: tomato;
+    font-size: 50px;
+    font-family: 'Fredoka One', cursive;
+    margin-top: 5%;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    margin-top: 5%;
+    background-color: cornflowerblue;
+    width: 300px;
+    height: 325px;
+    text-align: center;
+    border: 20px groove yellow;
+}
+
+#calculator {
+    margin-top: 50%;
+    position: absolute;
+    max-width: 80%;
+    left: 58%;
+    top: 10%;
+}
+
+input {
+    outline: 0;
+    position: relative;
+    left: 5px;
+    top: 5px;
+    border: 0;
+    color: #495069;
+    background-color: #fff;
+    border-radius: 4px;
+    width: 60px;
+    height: 50px;
+    float: left;
+    margin: 5px;
+    font-size: 20px;
+    box-shadow: 0 4px rgba(0, 0, 0, 0.2);
+}
+
+#answer {
+    width: 90%
+}
